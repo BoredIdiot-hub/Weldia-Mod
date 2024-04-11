@@ -32,7 +32,7 @@
 		"favoredReligion": "Islam", 
 		"uniquename": "Militaristic Identity",
 		"uniques": ["[+4] movement <for [Military] units>", "Quantity of strategic resources produced by the empire +[300]%", "[+50]% Production when constructing [Military] units [in all cities]"], 
-		"cities": ["Weldia City", "Hoburg"], 
-		"spyNames": ["John"]
+		"cities": ["Weldia City", "Hoburg","Excidium", "Vorath", "Fortis Arcanum", "Pyrrhos", "Eldoria", "Caelum", "Verdantia", "Nyxos", "Mythralis", "Aurelia", "Strahos", "Valorheim", "Novum Fortisopolis", "Bastionia", "Tychos", "Kyrios", "Aegisburg", "Ironfront", "Armadia", "Legonia"], 
+		"spyNames": ["Johan"]
 	}
 ]
